@@ -98,8 +98,8 @@
          "KC_TRNS"     , "KC_TRNS"     , "KC_TRNS"        , "KC_EXLM"       , "KC_TRNS",
          "DF(0)"       , "KC_TRNS"     , "RALT_T(KC_COMM)", "RCTL_T(KC_DOT)", "RESET",
 
-         "KC_TRNS"     , "KC_TAB",
-         "KC_NO"       , "KC_TRNS"
+         "KC_TRNS"     , "KC_TRNS",
+         "KC_TRNS"     , "KC_NO"
         ]
     ],
     "author": "@hannenijhuis"
